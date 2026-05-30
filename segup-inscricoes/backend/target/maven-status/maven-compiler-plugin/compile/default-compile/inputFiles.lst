@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\segup-inscricoes\segup-inscricoes\backend\src\main\java\br\gov\pa\segup\inscricoes\InscricoesApplication.java
+C:\Users\user\Downloads\segup-inscricoes\segup-inscricoes\backend\src\main\java\br\gov\pa\segup\inscricoes\config\CorsConfig.java
+C:\Users\user\Downloads\segup-inscricoes\segup-inscricoes\backend\src\main\java\br\gov\pa\segup\inscricoes\exception\InscricaoNotFoundException.java
+C:\Users\user\Downloads\segup-inscricoes\segup-inscricoes\backend\src\main\java\br\gov\pa\segup\inscricoes\service\InscricaoService.java
+C:\Users\user\Downloads\segup-inscricoes\segup-inscricoes\backend\src\main\java\br\gov\pa\segup\inscricoes\dto\InscricaoDTO.java
+C:\Users\user\Downloads\segup-inscricoes\segup-inscricoes\backend\src\main\java\br\gov\pa\segup\inscricoes\repository\InscricaoRepository.java
+C:\Users\user\Downloads\segup-inscricoes\segup-inscricoes\backend\src\main\java\br\gov\pa\segup\inscricoes\exception\GlobalExceptionHandler.java
+C:\Users\user\Downloads\segup-inscricoes\segup-inscricoes\backend\src\main\java\br\gov\pa\segup\inscricoes\controller\InscricaoController.java
+C:\Users\user\Downloads\segup-inscricoes\segup-inscricoes\backend\src\main\java\br\gov\pa\segup\inscricoes\exception\InscricaoJaCanceladaException.java
+C:\Users\user\Downloads\segup-inscricoes\segup-inscricoes\backend\src\main\java\br\gov\pa\segup\inscricoes\model\Inscricao.java

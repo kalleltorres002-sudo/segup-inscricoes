@@ -1,0 +1,14 @@
+br\gov\pa\segup\inscricoes\dto\InscricaoDTO$Response.class
+br\gov\pa\segup\inscricoes\model\Inscricao$StatusInscricao.class
+br\gov\pa\segup\inscricoes\InscricoesApplication.class
+br\gov\pa\segup\inscricoes\controller\InscricaoController.class
+br\gov\pa\segup\inscricoes\dto\InscricaoDTO$Request.class
+br\gov\pa\segup\inscricoes\exception\GlobalExceptionHandler.class
+br\gov\pa\segup\inscricoes\exception\InscricaoNotFoundException.class
+br\gov\pa\segup\inscricoes\exception\InscricaoJaCanceladaException.class
+br\gov\pa\segup\inscricoes\service\InscricaoService.class
+br\gov\pa\segup\inscricoes\config\CorsConfig$1.class
+br\gov\pa\segup\inscricoes\config\CorsConfig.class
+br\gov\pa\segup\inscricoes\dto\InscricaoDTO.class
+br\gov\pa\segup\inscricoes\model\Inscricao.class
+br\gov\pa\segup\inscricoes\repository\InscricaoRepository.class
